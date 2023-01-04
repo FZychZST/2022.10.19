@@ -1,0 +1,46 @@
+body
+{
+    background-color: gray;
+}
+div.klasa1
+{
+    width: 12cm;
+    background-color: yellow;
+    border-style: double;
+    border-color: maroon;
+    border-width: 5px;
+    text-align: center;
+    margin: 10px 0px 30px 40px;
+    padding: 15px 10px;
+}
+table.klasa2
+{
+ width: 15cm;
+ height: 10cm;
+ background-color: navy;
+ table-layout: auto;
+ border-collapse: collapse;
+}
+h3.klasa3
+{
+    width: 10cm;
+    background-color: maroon;
+    border: 5px solid yellow;
+    color: white;
+}
+tr.klasa4
+{
+    background-color: silver;
+}
+tr.klasa5
+{
+    background-color: aqua;
+}
+tr.klasa6
+{
+    background-color: lime;
+}
+td
+{
+    border: 5px solid red;
+}

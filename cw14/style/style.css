@@ -1,0 +1,66 @@
+.klasa_1{
+    border: 10px groove #c0c0c0;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+.klasa_2{
+    border-top: 16px double #ff0000;
+    border-right: 14px dotted #0000ff;
+    border-bottom: 12px solid #808000;
+    border-left:18px dashed #000080;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 20px;
+}
+.klasa_3{
+    list-style-type:square;
+    list-style-position: outside;
+}
+.klasa_4{
+    list-style-type: disc;
+    list-style-position: outside;
+}
+.klasa_5{
+    list-style-type: circle;
+    list-style-position: outside;
+}
+.klasa_6{
+    border-top: 8mm ridge #00ff00;
+    border-right: 4mm groove #ff00ff;
+    border-bottom: 7mm inset #ffff00;
+    border-left: 6mm outset #00ffff;
+    margin-top: 150px;
+    margin-right: 30px;
+    margin-bottom: 130px;
+    margin-left: 30px;
+    padding:35px;
+}
+.klasa_7{
+    list-style-type: decimal;
+    list-style-position: inside;
+}
+.klasa_8{
+    list-style-type: upper-alpha;
+    list-style-position: inside;
+}
+.klasa_9{
+    list-style-type: upper-roman;
+    list-style-position: inside;
+}
+.klasa_10{
+    list-style-type: lower-alpha;
+    list-style-position: inside;
+}
+.klasa_11{
+    list-style-type: lower-roman;
+    list-style-position: inside;
+}
